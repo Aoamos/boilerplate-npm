@@ -11,6 +11,7 @@
     "boilerplate",
     "npm"
   ],
+  "license": "MIT",
   "scripts": {
     "start": "node server.js"
   },
