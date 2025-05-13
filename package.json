@@ -6,6 +6,11 @@
   "main": "server.js",
   "author": "Aoamos",
   "description": "A project that does something awesome",
+  "keywords": [
+    "freecodecamp",
+    "boilerplate",
+    "npm"
+  ],
   "scripts": {
     "start": "node server.js"
   },
